@@ -3,3 +3,10 @@ label,sublabel,description,styles,bgcolor
 資源,,「月2回の資源回収の日」に出せるものです。,img/shigen02.svg,#77ae1f
 燃やすごみ,,「週2回の燃やすごみの日」に出せるものです。半透明の袋に入れて出してください。,img/moyasu02.svg,#ea3b13
 あきびん,,「月1回のあきびんの日」に出せるものです。色ごとに分けて出してください。ビールびんや一升びんは、酒屋さんへ。,img/bin02.svg,#2dc7aa
+可燃物,,,img/moyasu02.svg,#ea3b13
+不燃物,,,img/moyasanai02.svg,#733b96
+スプレー缶 蛍光管等,,,
+資源プラ,,,img/shigen02.svg,#77ae1f
+ペットボトル,,,
+缶・びん,,,img/bin02.svg,#2dc7aa
+古紙・布類,,,
