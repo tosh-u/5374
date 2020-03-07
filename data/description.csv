@@ -5,8 +5,8 @@ label,sublabel,description,styles,bgcolor
 あきびん,,「月1回のあきびんの日」に出せるものです。色ごとに分けて出してください。ビールびんや一升びんは、酒屋さんへ。,img/bin02.svg,#2dc7aa
 可燃物,,,img/moyasu02.svg,#ea3b13
 不燃物,,,img/moyasanai02.svg,#733b96
-スプレー缶 蛍光管等,,,
+スプレー缶 蛍光管等,,,,#000000
 資源プラ,,,img/shigen02.svg,#77ae1f
-ペットボトル,,,
+ペットボトル,,,,#000000
 缶・びん,,,img/bin02.svg,#2dc7aa
-古紙・布類,,,
+古紙・布類,,,,#000000
